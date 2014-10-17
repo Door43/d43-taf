@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[taf:home|Door43 (taf)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-taf|d43-taf repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-taf/archive/master.zip|d43-taf.zip]]
+
+**Recent Changes**
+{{changes>ns = taf}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/taf|Ethnologue data]]
+
